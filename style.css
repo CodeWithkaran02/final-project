@@ -1,0 +1,11 @@
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(0, 0, 0, .55) !important;
+    font-weight: 400px;
+}
+
+#shadow {
+    font-size: 70px;
+    text-shadow: 5px 10px 5px red;
+
+    font-style: oblique;
+}
